@@ -4,5 +4,5 @@
 //return the first two drivers in the array.
 
 const returnFirstTwoDrivers =  function (drivers) {
-  return drivers.name;
-}; 
+  return drivers.slice, 0, 2;
+};
