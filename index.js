@@ -23,3 +23,8 @@ const createFareMultiplier = function (multiplier) {
     return multiplier * num;
   };
 };
+
+
+const fareDoubler = function (doubler) {
+  
+}
