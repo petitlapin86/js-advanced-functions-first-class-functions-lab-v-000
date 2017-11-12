@@ -8,9 +8,9 @@ const returnFirstTwoDrivers =  function (drivers) {
 };
 
 //returnLastTwoDrivers() — Declare a variable with const that is assigned an anonymous function.
-// The assigned function should accept an array of drivers as an argument and return the 
+// The assigned function should accept an array of drivers as an argument and return the
 // last two drivers in the array.//
 
 const returnLastTwoDrivers = function (drivers) {
-  return drivers.slice (2, 3);
+  return drivers.slice (2, 4);
 }
