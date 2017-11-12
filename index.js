@@ -16,7 +16,6 @@ const returnLastTwoDrivers = function lasttwo (drivers) {
 }
 
 const selectingDrivers = [
-  function (drivers); {},
-  function lasttwo (drivers); {},
+  function (drivers) {},
+  function lasttwo (drivers) {},
 ];
-
