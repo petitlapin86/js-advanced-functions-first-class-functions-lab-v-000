@@ -11,6 +11,8 @@ const returnFirstTwoDrivers =  function (drivers) {
 // The assigned function should accept an array of drivers as an argument and return the
 // last two drivers in the array.//
 
-const returnLastTwoDrivers = function (drivers) {
+const returnLastTwoDrivers = function lasttwo (drivers) {
   return drivers.slice (2, 4);
 }
+
+const selectingDrivers = function 
